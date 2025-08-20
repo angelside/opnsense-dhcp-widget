@@ -18,3 +18,7 @@ fetch -o /usr/local/opnsense/www/js/widgets/Metadata/Leases.xml https://raw.gith
  ```
 
 - Add widget through OPNsense dashboard GUI
+
+### Originally forked from
+
+- https://github.com/jbaconsult/opnsense_stuff
